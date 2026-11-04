@@ -98,7 +98,7 @@ El archivo permite conservar los registros para futuras consultas y evitar que l
 4. Ejecutar el programa:
    Desde la terminal, ejecutar el siguiente comando:
 
-   python main.py
+   python proyecto-final.py
 
 5. Utilizar el menú principal:
    Una vez iniciado el programa, aparecerá el menú de OPTOGESTIÓN, desde donde se podrá seleccionar la funcionalidad deseada.
