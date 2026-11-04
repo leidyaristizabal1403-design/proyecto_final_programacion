@@ -19,5 +19,19 @@
         "edad": 37,
         "sexo": "f",
         "usa_correccion_visual": true
+    },
+    {
+        "id": 5,
+        "nombre": "janny cano",
+        "edad": 25,
+        "sexo": "f",
+        "usa_correccion_visual": true
+    },
+    {
+        "id": 6,
+        "nombre": "jhony aristizabal",
+        "edad": 30,
+        "sexo": "m",
+        "usa_correccion_visual": false
     }
 ]
