@@ -1,0 +1,23 @@
+[
+    {
+        "id": 2,
+        "nombre": "Daniel",
+        "edad": 29,
+        "sexo": "m",
+        "usa_correccion_visual": true
+    },
+    {
+        "id": 3,
+        "nombre": "David",
+        "edad": 36,
+        "sexo": "m",
+        "usa_correccion_visual": true
+    },
+    {
+        "id": 4,
+        "nombre": "leidy aristizabal",
+        "edad": 37,
+        "sexo": "f",
+        "usa_correccion_visual": true
+    }
+]
